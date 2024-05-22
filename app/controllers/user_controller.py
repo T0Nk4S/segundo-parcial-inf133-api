@@ -87,6 +87,7 @@ def login():
             flash("Nombre de usuario o contraseña incorrectos", "error")
     return user_view.login()
 
+
 @user_bp.route("/logout")
 @login_required
 def logout():

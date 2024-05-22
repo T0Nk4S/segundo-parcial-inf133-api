@@ -4,6 +4,7 @@ from controllers import user_controller
 from database import db
 from models.user_model import User
 
+
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///users.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False

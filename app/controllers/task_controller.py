@@ -1,5 +1,3 @@
-# app/controllers/task_controller.py
-
 from flask import jsonify, request
 from models.task_model import Task
 from database import db

@@ -1,5 +1,3 @@
-# app/models/task.py
-
 from app.database import db
 
 class Task(db.Model):

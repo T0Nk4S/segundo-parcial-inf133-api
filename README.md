@@ -5,6 +5,7 @@
 
 1. Realiza un **Fork** de este repositorio:
 
+
 ![Repositorio del Segundo Parcial](https://live.staticflickr.com/65535/53738608284_706405e96e_z.jpg)
 
 2. Si vas a trabajar en tu equipo local clona el nuevo repositorio resultado del **Fork** y ábrelo con **VSCode** o el editor de tu preferencia para trabajar tu solución. También puedes trabajar tu solución en **GitHub Codespaces**.

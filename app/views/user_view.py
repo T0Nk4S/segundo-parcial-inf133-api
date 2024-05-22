@@ -1,6 +1,7 @@
 from flask import render_template
 from flask_login import current_user
 
+
 def usuarios(users):
     return render_template("usuarios.html", users = users, title = "Lista de usuarios", current_user=current_user)
 
